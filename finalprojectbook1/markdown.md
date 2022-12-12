@@ -24,3 +24,5 @@ Ireland
 :class: weather
 Vancouver rain more than London
 `````
+## Citation
+{cite}`perez2011python,holdgraf_rapid_2016,RePEc:the:publsh:1367,caporaso2010qiime`!
