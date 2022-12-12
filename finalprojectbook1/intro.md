@@ -1,17 +1,17 @@
-# This is the first markdown file
+# Intro
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Hi! My name is Amy and this is my very first Jupyter Notebook.To know more about me, please check out my [Linkedin](https://www.linkedin.com/in/amy-wu-kh/) for more information.
 
 
-
-```{admonition} Click the button to reveal!
-:class: dropdown
-Some hidden toggle content!
-
-![](../images/2023.jpg)
+```{note}
+One fact about myself: I can take bath for 2 hours!
 ```
+
+```{Warning}
+I have seasonal depression, don't talk to me in Winter!
+```
+
+```{dropdown} How many more days until Christmas?
+13 more days! Can you believe it? 
+```
+
